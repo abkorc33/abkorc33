@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br>
 </div>
 
-🌱 Me 🌱
+🌱 About Me 🌱
 <div>
    <a href="https://www.notion.so/Kim-Su-Hyeon-1b636ef425024d29a5ec9668f4438ee1">
     <img src="https://img.shields.io/badge/Portfolio-EE4353?style=style=flat&logo=Notion&logoColor=white"/>
