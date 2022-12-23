@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 Tech Stack 🌱
 
 <!--
 **abkorc33/abkorc33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
