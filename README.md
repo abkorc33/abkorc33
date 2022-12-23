@@ -1,13 +1,14 @@
 #### 🌱 Suhyeon 🌱
 <div>
   <a href="https://abkorc33.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-#000000?style=flat-square&logo=Blogger&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Gmail-#EA4335?style=style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/GitHub-#181717?style=style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+  <a href="https://abkorc33.tistory.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=style=flat-square&logo=GitHub&logoColor=white"/>
+  </a>
 </div>
 
 <!--
