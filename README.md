@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>📚 Tech Stack </h3>
+<h2>📚 Tech Stack </h2>
 <br>
 ✨ Platforms & Languages 
 <div>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 🌱 About Me 
 <div>
-  <a href="https://equal-trampoline-6c5.notion.site/Kim-Su-Hyeon-4e45310b8c944aadaefca7badf051b29">
+  <a href="https://www.notion.so/Kim-Su-Hyeon-4e45310b8c944aadaefca7badf051b29">
     <img src="https://img.shields.io/badge/Portfolio-40AEF0?style=style=flat&logo=Notion&logoColor=white"/>
   </a>
    <- Click Me!⭐
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <br>
 </div>
 
-📖 Team Project
+<h2>💻 Team Project</h2>
 <div>
    [Project: Direct Github]
    <a href="https://github.com/kimwlsgh33/direct/tree/feature/myInfo">
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
    </a>
    <br>
    [Project: Direct 포트폴리오]
-   <a href="https://equal-trampoline-6c5.notion.site/DIRECT-505349e060384d2b9108fcef6159e6f8">
+   <a href="https://www.notion.so/DIRECT-40b26f6407964ce8b55700c02c8398db">
       <img src="https://img.shields.io/badge/DIRECT-40AEF0?style=style=flat&logo=Notion&logoColor=white"/>
    </a>
    <- Click Me!⭐
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
    </a>
    <br>
    [Project Linker 포트폴리오]
-   <a href="https://equal-trampoline-6c5.notion.site/LINKER-1fa659c6449f416c94ea792c8e1364f8">
+   <a href="https://www.notion.so/LINKER-5157c34d484543b48a8f999b98509c8a">
       <img src="https://img.shields.io/badge/LINKER-40AEF0?style=style=flat&logo=Notion&logoColor=white"/>
    </a>
    <- Click Me!⭐
