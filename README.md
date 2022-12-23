@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>📚 Tech Stack 📚</h3>
+<h3>📚 Tech Stack </h3>
 <br>
-✨ Platforms & Languages ✨
+✨ Platforms & Languages 
 <div>
 <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br>
 </div>
 
-🛠️ Tools 🛠️
+🛠️ Tools 
 <div>
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br>
 </div>
 
-🌱 About Me 🌱
+🌱 About Me 
 <div>
    <a href="https://www.notion.so/Kim-Su-Hyeon-1b636ef425024d29a5ec9668f4438ee1">
     <img src="https://img.shields.io/badge/Portfolio-EE4353?style=style=flat&logo=Notion&logoColor=white"/>
