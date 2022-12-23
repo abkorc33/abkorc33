@@ -57,4 +57,32 @@ Here are some ideas to get you started:
   <a href="https://github.com/abkorc33">
     <img src="https://img.shields.io/badge/GitHub-181717?style=style=flat&logo=GitHub&logoColor=white"/>
   </a>
+<br>
+<br>
 </div>
+
+📖 Team Project
+<div>
+   [Project: Direct Github]
+   <a href="https://github.com/kimwlsgh33/direct/tree/feature/myInfo">
+      <img src="https://img.shields.io/badge/DIRECT-181717?style=style=flat&logo=GitHub&logoColor=white"/>
+   </a>
+   <br>
+   [Project: Direct 포트폴리오]
+   <a href="https://www.notion.so/DIRECT-505349e060384d2b9108fcef6159e6f8">
+      <img src="https://img.shields.io/badge/DIRECT-EE4353?style=style=flat&logo=Notion&logoColor=white"/>
+   </a>
+</div>
+<br>
+<div>
+   [Project Linker Github]
+   <a href="https://github.com/kimwlsgh33/Project/tree/feature/Profile">
+      <img src="https://img.shields.io/badge/LINKER-181717?style=style=flat&logo=GitHub&logoColor=white"/>
+   </a>
+   <br>
+   [Project Linker 포트폴리오]
+   <a href="https://www.notion.so/LINKER-1fa659c6449f416c94ea792c8e1364f8">
+      <img src="https://img.shields.io/badge/LINKER-EE4353?style=style=flat&logo=Notion&logoColor=white"/>
+   </a>
+</div>
+
