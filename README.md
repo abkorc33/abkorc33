@@ -1,12 +1,13 @@
 #### 🌱 Suhyeon 🌱
 <div>
   <a href="https://abkorc33.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-#000000?style=for-the-badge&logo=Tistory&logoColor=white">
+    <img src="https://img.shields.io/badge/Tistory-#000000?style=flat-square&logo=Blogger&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Gmail-#EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-#EA4335?style=style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/GitHub-#181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-#181717?style=style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 </div>
 
 <!--
@@ -24,4 +25,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ✨ Platforms & Languages ✨
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
