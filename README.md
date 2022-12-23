@@ -45,9 +45,6 @@ Here are some ideas to get you started:
 
 🌱 About Me 
 <div>
-   <a href="https://equal-trampoline-6c5.notion.site/Kim-Su-Hyeon-1b636ef425024d29a5ec9668f4438ee1">
-    <img src="https://img.shields.io/badge/Portfolio-EE4353?style=style=flat&logo=Notion&logoColor=white"/>
-  </a>
   <a href="https://abkorc33.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-09B3AF?style=style=flat&logo=Storyblok&logoColor=white"/>
   </a>
@@ -57,6 +54,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/abkorc33">
     <img src="https://img.shields.io/badge/GitHub-181717?style=style=flat&logo=GitHub&logoColor=white"/>
   </a>
+  <a href="https://equal-trampoline-6c5.notion.site/Kim-Su-Hyeon-1b636ef425024d29a5ec9668f4438ee1">
+    <img src="https://img.shields.io/badge/Portfolio-EE4353?style=style=flat&logo=Notion&logoColor=white"/>
+  </a>
+   <- Click Me!💖
 <br>
 <br>
 </div>
