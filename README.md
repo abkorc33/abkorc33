@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 🌱 About Me 
 <div>
-   <a href="https://www.notion.so/Kim-Su-Hyeon-1b636ef425024d29a5ec9668f4438ee1">
+   <a href="https://equal-trampoline-6c5.notion.site/Kim-Su-Hyeon-1b636ef425024d29a5ec9668f4438ee1">
     <img src="https://img.shields.io/badge/Portfolio-EE4353?style=style=flat&logo=Notion&logoColor=white"/>
   </a>
   <a href="https://abkorc33.tistory.com/">
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
    </a>
    <br>
    [Project: Direct 포트폴리오]
-   <a href="https://www.notion.so/DIRECT-505349e060384d2b9108fcef6159e6f8">
+   <a href="https://equal-trampoline-6c5.notion.site/DIRECT-505349e060384d2b9108fcef6159e6f8">
       <img src="https://img.shields.io/badge/DIRECT-9999FF?style=style=flat&logo=Notion&logoColor=white"/>
    </a>
    <- Click Me!💖
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
    </a>
    <br>
    [Project Linker 포트폴리오]
-   <a href="https://www.notion.so/LINKER-1fa659c6449f416c94ea792c8e1364f8">
+   <a href="https://equal-trampoline-6c5.notion.site/LINKER-1fa659c6449f416c94ea792c8e1364f8">
       <img src="https://img.shields.io/badge/LINKER-9999FF?style=style=flat&logo=Notion&logoColor=white"/>
    </a>
    <- Click Me!💖
