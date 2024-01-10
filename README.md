@@ -71,7 +71,7 @@ Here are some ideas to get you started:
    </a>
    <br>
    [Project: Direct 포트폴리오]
-   <a href="https://www.notion.so/DIRECT-40b26f6407964ce8b55700c02c8398db">
+   <a href="https://equal-trampoline-6c5.notion.site/DIRECT-40b26f6407964ce8b55700c02c8398db?pvs=4">
       <img src="https://img.shields.io/badge/DIRECT-40AEF0?style=style=flat&logo=Notion&logoColor=white"/>
    </a>
    <- Click Me!⭐
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
    </a>
    <br>
    [Project Linker 포트폴리오]
-   <a href="https://www.notion.so/LINKER-5157c34d484543b48a8f999b98509c8a">
+   <a href="https://equal-trampoline-6c5.notion.site/LINKER-5157c34d484543b48a8f999b98509c8a?pvs=4">
       <img src="https://img.shields.io/badge/LINKER-40AEF0?style=style=flat&logo=Notion&logoColor=white"/>
    </a>
    <- Click Me!⭐
