@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 🌱 About Me 
 <div>
-  <a href="https://www.notion.so/Kim-Su-Hyeon-4e45310b8c944aadaefca7badf051b29">
+  <a href="https://equal-trampoline-6c5.notion.site/Kim-Su-Hyeon-4e45310b8c944aadaefca7badf051b29?pvs=4">
     <img src="https://img.shields.io/badge/Portfolio-40AEF0?style=style=flat&logo=Notion&logoColor=white"/>
   </a>
    <- Click Me!⭐
